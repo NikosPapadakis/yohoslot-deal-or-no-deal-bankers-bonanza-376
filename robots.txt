@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yohoslot-deal-or-no-deal-bankers-bonanza.github.io/sitemap.xml
